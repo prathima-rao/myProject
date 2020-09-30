@@ -2,7 +2,8 @@
 
 /*   i am making this new changes for new features as part of newBranch*/
 
-/* new lines added  in master to create conflict during merge*/
+<<<<<< HEAD
+/* new lines added  in master to create conflict during merge ok!!!!*/
 using System;
 using System.Collections.Generic;
 using System.Linq;
